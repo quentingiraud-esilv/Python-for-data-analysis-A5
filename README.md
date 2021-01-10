@@ -25,8 +25,8 @@ dans ce repertoire github vous trouverez :
 concernant l'API, il vous faut faire la commande suivantes au préalable :  
 `pip install FLASK`
 
-puis pour lancer le serveur FLASK, dans le terminal :
+puis pour lancer le serveur FLASK, dans le terminal :  
 `python app.py`
 
-pour finir, pour envoyer une rquête a l'API il faut faire la commande suivante dans le terminal :
+pour finir, pour envoyer une rquête a l'API il faut faire la commande suivante dans le terminal :  
 `python request.py`
