@@ -18,3 +18,15 @@ dans ce repertoire github vous trouverez :
 - le modele final entrainé : `final_modele.pickle`  
 - la présentation nommée : `presentation_Quentin_Giraud.pptx`  
 
+-----------------
+
+## API
+
+concernant l'API, il vous faut faire la commande suivantes au préalable :  
+`pip install FLASK`
+
+puis pour lancer le serveur FLASK, dans le terminal :
+`python app.py`
+
+pour finir, pour envoyer une rquête a l'API il faut faire la commande suivante dans le terminal :
+`python request.py`
