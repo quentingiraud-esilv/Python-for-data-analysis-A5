@@ -16,7 +16,7 @@ dans ce repertoire github vous trouverez :
 - le notebook contenant le code du projet ( analyse du dataset, preprocessing et modèle : `python_for_data_analysis.ipynb`  
 - les codes de l'API: `app.py` qui contient le __serveur FLASK__ et `request.py` pour envoyer une requete à l'API  
 - le modele final entrainé : `final_modele.pickle`  
-- la présentation nommée : `presentation_Quentin_Giraud.pptx`  
+- la présentation nommée : `presentation_Quentin_Giraud.pdf`  
 
 -----------------
 
